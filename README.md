@@ -21,7 +21,7 @@ Los scripts y notebooks aquí incluidos están pensados para acompañar los sigu
 
 | Archivo | Descripción |
 |--------|-------------|
-| `animacion_funcion.py` | Graficador animado de funciones: muestra punto por punto cómo se genera el gráfico de `f(x)` entre dos valores dados. Ideal para visualizar comportamiento y continuidad. |
+| `graficador.py` | Graficador animado de funciones: muestra punto por punto cómo se genera el gráfico de `f(x)` entre dos valores dados. Ideal para visualizar comportamiento y continuidad. |
 | `limites_interactivos.ipynb` | Notebook para calcular y graficar límites desde la izquierda y derecha, con interpretación visual. |
 | `derivadas_visuales.ipynb` | Herramienta para ver la derivada como pendiente de la recta tangente. Permite ajustar el punto y observar el cambio. |
 | `integrales_area.ipynb` | Representación del área bajo la curva para una función dada. Muestra sumas de Riemann y cálculo simbólico. |
