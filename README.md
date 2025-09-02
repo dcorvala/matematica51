@@ -34,5 +34,5 @@ Los scripts y notebooks aquí incluidos están pensados para acompañar los sigu
 Podés correr los archivos `.py` en tu computadora desde la terminal:
 
 ```bash
-python animacion_funcion.py
+python graficador.py
 
